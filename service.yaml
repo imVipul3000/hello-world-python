@@ -15,3 +15,5 @@ profiles:
     endpoint: /preview/hello/{{branch}}/
     max_memory: 0.25G
     max_cpu: 0.25
+    access_key_id: "AKIAUWRHKEXAMPLE12"
+    secret_access_key: "G6NNeBqCGUqjdUNtOKuB/EXAMPLE321"
